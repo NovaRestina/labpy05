@@ -131,7 +131,8 @@ Perulangan diatas adalah perulangan yang akan berjalan terus menerus dan akan be
  - Mengubah Data dengan input `U` dan melihat data dengan input `L`
  ![img5](image/i6.png)
  - Mencari Data dengan input `C`
- ![img7](image/i7.png)
+ 
+  ![img7](image/i7.png)
  - Menghapus Data dengan input `H` dan melihat data dengan input `L`
  ![img6](image/i8.png)
  - Keluar dari program dengan input `K`

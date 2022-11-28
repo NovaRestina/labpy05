@@ -4,15 +4,15 @@
 ## Program
 dibawah ini adalah program sederhana untuk membuat daftar nilai mahasiswa dengan mnggunakan **Dictionary**, dan menampilkan pilihan **Menu** Tambah, Ubah, Hapus, Cari, dan Lihat.
 
-![img1](SS/i1.png)
-![img2](SS/i2.png)
-![img3](SS/i3.png)
+![img1](image/i1.png)
+![img2](image/i2.png)
+![img3](image/i3.png)
 
 
 ## Flowchart
 Dan berikut adalah tampilan dari flowchartnya :
 
-![img4](SS/4.png)
+![img4](image/i4.png)
 
 
 ## Penjelasan
@@ -127,14 +127,14 @@ Perulangan diatas adalah perulangan yang akan berjalan terus menerus dan akan be
 ## Hasil Output
 - Apabila program dijalankan maka akan menghasilkan output sebagai berikut :
  - Menambahkan Data dengan input `T` dan melihat data dengan input `L`
- ![img4](SS/i4.png)
+ ![img4](image/i5.png)
  - Mengubah Data dengan input `U` dan melihat data dengan input `L`
- ![img5](SS/i5.png)
+ ![img5](image/i6.png)
  - Mencari Data dengan input `C`
- ![img7](SS/i6.png)
+ ![img7](image/i7.png)
  - Menghapus Data dengan input `H` dan melihat data dengan input `L`
- ![img6](SS/i7.png)
+ ![img6](image/i8.png)
  - Keluar dari program dengan input `K`
- ![img8](SS/i8.png)
+ ![img8](image/i9.png)
  
-# **Terima Kasih** 
+# **Semoga Bermanfaat**
